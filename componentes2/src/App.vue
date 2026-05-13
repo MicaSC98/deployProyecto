@@ -1,12 +1,12 @@
 <script setup>
-import Hello from './components/Hello.vue'
+import Tarea from './components/Tarea.vue'
 import HelloWorld from './components/HelloWorld.vue'
 import SumBoton from './components/SumBoton.vue'
 
 </script>
 
 <template>
-  <Hello/>
+  <Tarea/>
   <SumBoton />
   <HelloWorld />
   
